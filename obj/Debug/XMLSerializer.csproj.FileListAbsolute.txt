@@ -1,0 +1,7 @@
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe.config
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.exe
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\bin\Debug\XMLSerializer.pdb
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.csprojResolveAssemblyReference.cache
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.csproj.CoreCompileInputs.cache
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.exe
+E:\برامجC#\برامجC#\MyProjects\XMLSerializer\XMLSerializer\obj\Debug\XMLSerializer.pdb
